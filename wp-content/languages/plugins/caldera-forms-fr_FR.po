@@ -2,7 +2,7 @@
 # This file is distributed under the same license as the Plugins - Caldera Forms &#8211; More Than Contact Forms - Stable (latest release) package.
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2017-12-01 14:19:56+0000\n"
+"PO-Revision-Date: 2017-12-11 23:32:03+0000\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -136,7 +136,7 @@ msgstr "Grand"
 
 #: includes/templates/variable-price-example.php:153
 msgid "Option 2 Type"
-msgstr "Type de l'option 2"
+msgstr "Type de l’option 2"
 
 #: includes/templates/variable-price-example.php:140
 msgid "Yes"
@@ -144,7 +144,7 @@ msgstr "Oui"
 
 #: includes/templates/variable-price-example.php:123
 msgid "Want Option 1?"
-msgstr "Voulez-vous l'option 1 ?"
+msgstr "Voulez-vous l’option 1 ?"
 
 #: includes/templates/variable-price-example.php:106
 msgid "Base"
@@ -168,7 +168,7 @@ msgstr "Commentaires/questions"
 
 #: includes/templates/starter-contact-form.php:125
 msgid "Feel free to ask a question or simply leave a comment."
-msgstr "N'hésitez pas à poser une question ou à simplement laisser un commentaire."
+msgstr "N’hésitez pas à poser une question ou à simplement laisser un commentaire."
 
 #: includes/templates/starter-contact-form.php:124
 msgid "How can we help?"
@@ -192,11 +192,11 @@ msgstr "Commentaires"
 
 #: includes/templates/simple-booking-form-example.php:187
 msgid "Number of children"
-msgstr "Nombre d'enfants"
+msgstr "Nombre d’enfants"
 
 #: includes/templates/simple-booking-form-example.php:165
 msgid "Number of adults"
-msgstr "Nombre d'adultes"
+msgstr "Nombre d’adultes"
 
 #: includes/templates/simple-booking-form-example.php:144
 msgid "Check out date"
@@ -204,7 +204,7 @@ msgstr "Date de sortie"
 
 #: includes/templates/simple-booking-form-example.php:123
 msgid "Check in date"
-msgstr "Date d'arrivée"
+msgstr "Date d’arrivée"
 
 #: includes/templates/simple-booking-form-example.php:83
 msgid "Mobile Number"
@@ -261,7 +261,7 @@ msgstr "Nombre de personnes"
 
 #: includes/templates/registration-form-example.php:16
 msgid "Registration Form"
-msgstr "Formulaire d'Inscription"
+msgstr "Formulaire d’inscription"
 
 #: includes/templates/rate-our-service-example.php:76
 msgid "How would you rate your experience"
@@ -344,7 +344,7 @@ msgstr "Choisissez-en un"
 
 #: includes/templates/job-application-form-example.php:15
 msgid "Job Application"
-msgstr "Demande d'emploi"
+msgstr "Demande d’emploi"
 
 #: classes/fields.php:266
 msgid "Credit Card Expiration Date"
@@ -392,7 +392,7 @@ msgstr "Restaurer la révision du formulaire"
 
 #: ui/admin_templates.php:227
 msgid "Some usage data will be shared with CDN providers."
-msgstr "Certaines données d'utilisation seront partagées avec les fournisseurs de CDN."
+msgstr "Certaines données d’utilisation seront partagées avec les fournisseurs de CDN."
 
 #: ui/admin_templates.php:224
 msgid "Enable Free CDN"
@@ -500,7 +500,7 @@ msgstr "Ne pas utiliser d’étiquette magique"
 
 #: ui/panels/emailer.php:67
 msgid "Email Address for sender. If you want to use a form field use the \"Reply To Email\" setting below."
-msgstr "Adresse de messagerie pour l’expéditeur. Si vous souhaitez utiliser un champ de formulaire, utilisez le réglage « Répondre à l’e-mail » ci-dessous."
+msgstr "Adresse de messagerie pour l’expéditeur. Si vous souhaitez utiliser un champ de formulaire, utilisez le réglage « Répondre à l’e-mail » ci-dessous."
 
 #: ui/edit.php:818
 msgid "Click to view help doc on CalderaForms.com"
@@ -1296,7 +1296,7 @@ msgstr "Vous pouvez installer le zip de la dernière version bêta et l’instal
 
 #: ui/support/panels/beta.php:29
 msgid "If you have installed the plugin via Git, you can pull the \"develop\" branch."
-msgstr "Si vous avez installé le plugin via Git, vous pouvez retirer la branche de « développement »."
+msgstr "Si vous avez installé l‘extension via Git, vous pouvez tirer la branche « développement »."
 
 #: ui/support/panels/beta.php:23
 msgid "You can use the GitHub Updater plugin."
@@ -1825,7 +1825,7 @@ msgstr "Paramètres généraux"
 
 #: ui/edit.php:608
 msgid "Are you sure you want to remove this field?. 'Cancel' to stop. 'OK' to delete"
-msgstr "Confirmez-vous vouloir supprimer ce champ ? « Annuler » pour abandonner. « OK » pour supprimer"
+msgstr "Confirmez-vous la suppression de ce champ ? « Annuler » pour abandonner. « OK » pour supprimer"
 
 #: ui/edit.php:598
 msgid "Show in Entry List"
