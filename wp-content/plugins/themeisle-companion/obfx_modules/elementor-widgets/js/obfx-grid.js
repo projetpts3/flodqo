@@ -1,6 +1,5 @@
 /* global elementor */
 (function ($) {
-
 	$( document ).ready(
 		function () {
 				checkImageSize();
@@ -60,4 +59,4 @@
 		);
 	}
 
-})(jQuery);
+})( jQuery );
